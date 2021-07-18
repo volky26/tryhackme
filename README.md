@@ -26,4 +26,11 @@
    - Wgel CTF
    - Brooklyn Nine Nine
    - Chill Hack
-   - 
+
+2. **MEDIUM LEVEL**
+   - Mr Robot CTF
+   - Attactive Diretory
+   - HackPark
+
+3. **HARD LEVEL**
+   - Daily Bugle
