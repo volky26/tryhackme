@@ -5,7 +5,6 @@
 1. **EASY LEVEL**
    - Basic Pentesting
    - Pickle Rick
-   - Mr Robot CTF
    - RootMe
    - OhSINT
    - Bounty Hacker
@@ -23,3 +22,8 @@
    - ToolsRus
    - Alfred
    - Steel Mountain
+   - Simple CTF
+   - Wgel CTF
+   - Brooklyn Nine Nine
+   - Chill Hack
+   - 
