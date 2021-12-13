@@ -23,14 +23,47 @@
    - Alfred
    - Steel Mountain
    - Simple CTF
-   - Wgel CTF
+   - Wgel CTFGA
    - Brooklyn Nine Nine
    - Chill Hack
+   - Year of Rabbit
+   - Brute It
+   - GamingServer
+   - Cyborg
+   - Anthem
+   - Chocolate Factory
+   - Archangel
+   - ColddBox:Easy
+   - Source
+   - WebOsint
+   - Git Happens
+   - Madness
+   - Vulnerability Capstone
+   - Kiba
+   - Blueprint
 
 2. **MEDIUM LEVEL**
    - Mr Robot CTF
    - Attactive Diretory
    - HackPark
+   - Wonderland
+   - Anonymous
+   - Relevant
+   - UltraTech
+   - Boiler CTF
+   - Blog
+   - Gatekeeper
+   - The Marketplace
+   - Brainstorm
+   - Tokyo Ghoul
+   - ConvertMyVideo
+   - 
 
 3. **HARD LEVEL**
    - Daily Bugle
+   - Internal
+   - REtro
+   - Brainpan 1
+   - Year of Fox
+   - Anonymous Playground
+   - M4tr1x: Exit Denied
